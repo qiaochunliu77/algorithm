@@ -1,2 +1,1 @@
 kuaisu 
-kuaisu kuaisu 
